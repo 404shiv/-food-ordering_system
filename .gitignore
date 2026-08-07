@@ -1,0 +1,31 @@
+# Python virtual environments and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+.env.local
+
+# Node/React dependencies and builds
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
